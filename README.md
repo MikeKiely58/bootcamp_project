@@ -1,0 +1,2 @@
+# bootcamp_project
+This is a web application aimed at improving users understanding of UK Government national annual expenditure. The front end will permit users to make changes to the national expenditure across 10 departments. The back end will be a database of the current income and expenditure using NSO and HMRC whose front end allows users to make changes to the national budget and calculate the impact on national debt.
